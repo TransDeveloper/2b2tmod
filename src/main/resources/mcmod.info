@@ -1,0 +1,16 @@
+[
+{
+  "modid": "2b2tmute",
+  "name": "2b2tmute",
+  "description": "Bypass the 2b2t mute by using a mod-mod user chat.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/transdeveloper/2b2tmute",
+  "updateUrl": "",
+  "authorList": ["TransDeveloper"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
